@@ -1,5 +1,28 @@
 /* Your Website Styles */
 
+body{
+	font-family: 'Roboto', sans-serif;
+	color: #A68E5E;
+	background:url("../img/block.png");
+}
+
+h1{
+	font-size: 3em;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color: gray;
+}
+h3{
+	color: #402F18;
+}
+h2{
+	font-weight: 300;
+	font-size: .6em;
+}
+img{
+	max-width: 100%;
+	max-width: 300px;
+}
 
 /* Show Grid */
 .showgrid {
